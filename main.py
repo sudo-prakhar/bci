@@ -10,4 +10,5 @@ sleep(1)
 while True:
     print ("Meditation ", neuroPy.meditation)
     print ("Attention ", neuroPy.attention)
+    print("lalalalala")
     sleep(0.5)
